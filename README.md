@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* PHP 7.1+
+* PHP 7.4+
 * Web server (ex. Apache or Nginx)
 * CMaNGOS instance
 
